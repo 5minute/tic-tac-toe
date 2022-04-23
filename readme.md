@@ -4,7 +4,7 @@
 
 This repository contains source code used for "Tic-tac-toe in 5 minutes" project.
 
-![Twitter bot](https://www.5minsofcode.com/assets/tic-tac-toe.png)
+![Tic tac toe](https://www.5minsofcode.com/assets/tic-tac-toe.png)
 
 ## Disclaimer
 
